@@ -22,6 +22,10 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/elastic.png",
+                    "title": "Elasticsearch"
+                },
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
@@ -30,26 +34,28 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
                 }
+                
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
+                
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"

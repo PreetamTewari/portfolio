@@ -2,32 +2,38 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Juniper Networks",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Created an UI based SaaS tool for the product offerings of Juniper for consumers by integrating 4 internal CLI tools which led to reduction in testing time by 40%.",
+                "Integrated Mist AI API endpoints with SaaS tool to automate event correlation, root cause identification and anomaly detection.",
+                "Used python as a scripting language to setup automations to provision Linux VM instances, collect telemetry data and write to an influx time-series database.",
+                "Wrote reusable unit test documents to ensure quality control and detect bugs by over 35% efficiency rate and automated the bringing up of server instances in the event of failures."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "2018 – 2022"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Product Engineer",
+            "subtitle": "INSZoom.Inc",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Analyzed requirements and designed software solution specifications for development requirements.",
+                "Implemented MVC architecture on .NET framework.",
+                "Isolated, recreated and provided fixes for the bugs reported at the production environment.",
+                "Participated in code reviews."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "2017 – 2017"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Assistant Software Engineer",
+            "subtitle": "KPIT Technologies",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Participated in requirement gathering from client and update the existing modules based on client request.",
+                "Contributed to design and development of client and server database application.",
+                "Tested and validated the application on different testing environments and deployed the web application."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "2013 – 2014"
         }
     ]
 }

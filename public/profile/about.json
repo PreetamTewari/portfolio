@@ -1,5 +1,5 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
+    "about": " I am Preetam and I have been working in the software industry for the last 6 years. I have extensive experience in developing and maintaining software applications.\n\n\n\nIn my previous role at Juniper Networks, I was responsible for developing multiple large scale applications. My tech stack with mostly included VueJS for the frontend, laravel/NodeJS for backend and I have used Python extensively for automating and scripting tasks. One of the major project that I worked on was developing a Web based testing framework for the products at Juniper Networks. It included a UI tool to drag and drop nodes to create a network topology and creating custom testcases and submitting the run. In the backend, I have handled the initialization of VMs for each of the node, loading the configs and image and then running the testcases.",
+    "imageSource": "images/about/ppt.jpg"
     
 }
